@@ -1,7 +1,7 @@
 {
-  "name": "webpack4-es6",
-  "version": "1.0.0",
-  "description": "webpack4, es6",
+  "name": "wzx-event-emitter",
+  "version": "0.0.1",
+  "description": "event, message, emitter, eventEmitter",
   "main": "src/eventEmitter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
     "build": "webpack --mode production"
   },
   "author": "wzx361@126.com",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
@@ -21,8 +21,5 @@
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.8"
-  },
-  "dependencies": {
-    "jquery": "^3.3.1"
   }
 }
