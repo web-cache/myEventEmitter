@@ -1,2 +1,3 @@
-# webpack4-es6
-用webpack4搭建的es6开发环境
+# eventEmitter 消息通信机制 发布/订阅，模式
+
+ - 支持$on、$emit、$off、$once 

@@ -1,5 +1,5 @@
-class MyEventEmitter {
-	constructor(){
+class EventEmitter {
+	constructor() {
 		this._events = {}
 	}
 	$on(event, fn) {
@@ -50,4 +50,4 @@ class MyEventEmitter {
 	}
 }
 
-export default MyEventEmitter
+export default EventEmitter

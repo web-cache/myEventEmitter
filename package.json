@@ -2,7 +2,7 @@
   "name": "webpack4-es6",
   "version": "1.0.0",
   "description": "webpack4, es6",
-  "main": "src/index.js",
+  "main": "src/eventEmitter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run dev",
@@ -14,7 +14,6 @@
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
-    "babel-plugin-transform-decorators-legacy": "^1.3.5",
     "babel-polyfill": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-latest": "^6.24.1",
@@ -24,8 +23,6 @@
     "webpack-dev-server": "^3.1.8"
   },
   "dependencies": {
-    "core-decorators": "^0.20.0",
-    "javascript-state-machine": "^3.1.0",
     "jquery": "^3.3.1"
   }
 }
