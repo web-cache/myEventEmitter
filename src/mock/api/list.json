@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "《道德经》",
+		"price": 150,
+		"discount": 1
+	},
+	{
+		"id": 2,
+		"name": "《数学之美》",
+		"price": 200,
+		"discount": 0.9
+	},
+	{
+		"id": 3,
+		"name": "《软件架构师》",
+		"price": 100,
+		"discount": 0.9
+	},
+	{
+		"id": 4,
+		"name": "《人工智能时代》",
+		"price": 180,
+		"discount": 0.9
+	}
+]
